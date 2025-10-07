@@ -1,4 +1,5 @@
 # Virtual Tour Website for Hoi Ping Chamber of Commerce Secondary School (2023)
+- virtual tour website created with panolens.js
 ## https://winstonnub.github.io/hoiping_vt/Virtual%20Tour%20Website/index.html
 
 ## About
